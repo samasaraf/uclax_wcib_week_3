@@ -1,0 +1,102 @@
+body {
+  background-image: url("/images/cookiesbg.png");
+  font-family: sans-serif;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+img {
+  width: 100%; }
+
+h1 {
+  border-radius: 500px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique; }
+
+.image2 {
+  border-radius: 100px;
+  width: 95%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto; }
+
+.image1 {
+  border-radius: 100px;
+  width: 30%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  float: right; }
+
+.image4 {
+  border-radius: 100px;
+  width: 40%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  float: right; }
+
+h2 {
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px; }
+
+h3 {
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px; }
+
+p {
+  background-color: antiquewhite;
+  text-align: center;
+  font-size: 20px;
+  font-family: serif;
+  margin-top: 20px;
+  margin-bottom: 25px; }
+
+.p2 {
+  background-color: antiquewhite;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 20;
+  padding: 20px; }
+
+ul {
+  background-color: antiquewhite;
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  font-family: serif; }
+
+li {
+  background-color: antiquewhite;
+  text-align: center;
+  font-style: normal;
+  font-size: 20px;
+  font-family: serif; }
+
+.box {
+  float: right;
+  width: 50%;
+  padding: 50px;
+  height: 300px; }
+
+.box2 {
+  float: left;
+  width: 50%;
+  padding: 50px;
+  height: 300px; }
+
+span {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 2px; }
